@@ -66,3 +66,12 @@ a{
 .my-4{
     font-size: 3rem;
 }
+.navbar-image{
+    height: 100px;
+}
+.center{
+    width:50%;
+}
+.list{
+    height: 400px;
+}
